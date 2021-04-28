@@ -6,11 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "server": "json-server server.json -w -d 750 -p 3333"
+    "server": "json-server server.json -w -d 750 -p 3333",
+    "commit": "cz"
   },
   "husky": {
     "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true",
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
     }
   },
   "dependencies": {
@@ -29,8 +30,9 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
+    "madge": "^4.0.2",
     "@commitlint/config-conventional": "^12.1.1",
-    "cz-conventional-changelog": "3.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "husky": "^6.0.0"
   },
   "config": {

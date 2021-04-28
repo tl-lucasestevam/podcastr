@@ -21,8 +21,6 @@
   box-sizing: border-box;
 }
 
-
-
 @media(max-width: 1080px) {
   html {
     font-size: 93.75%;
@@ -37,6 +35,21 @@
 
 body {
   background: var(--gray-50);
+}
+
+// Scrollbar
+
+::-webkit-scrollbar-track {
+  background-color: var(--gray-50);
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  background-color: var(--gray-50);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--green-500);
 }
 
 body,
