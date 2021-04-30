@@ -8,13 +8,14 @@
 
 <h2 align="center">Podcastr is a platform for listening to podcasts about development 🚀</h2>
 
-<h3 align="center">
+<h4 align="center">
  <a href="##additional-features">✨ Features</a> •
  <a href="##-🛠-technologies-used">🛠 Technologies</a> • 
  <a href="##-🔨-how-to-run-the-project">🔨 How to run the project</a> • 
- <a href="##:star2:-thanks!**">:star2: Thanks</a> • 
+ <a href="#star2-thanks">:star2: Thanks</a> • 
+ <a href="#books-references">:books: References</a> • 
  <a href="##-📝-License">📝 License</a>
-</h3>
+</h4>
 
 <br>
 
@@ -23,6 +24,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/tl-lucasestevam/podcastr?utm_source=github.com&utm_medium=referral&utm_content=jvictorfarias/GoBarber&utm_campaign=Badge_Grade)
 ![GitHub top language](https://img.shields.io/github/languages/top/tl-lucasestevam/podcastr?style=flat-square)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-%237519C1)
 
 <br>
 
@@ -31,18 +33,22 @@
 	alt="Podcastr Logo" 
 />
 
-<br>
-
 <h2 align="center"> 
-	🚧  Podcastr 🚀 In construction...  🚧
+	<a href="podcastr-tl-lucasestevam.vercel.app/">View Demo</a>
 </h2>
+
+<h3 align="center"> 
+	🚧  Podcastr 🚀 In construction...  🚧
+</h3>
+
+<br>
 
 ## ✨ Additional Features
 
 - [ ] PWA
 - [ ] Theme Switcher
-- [ ] Language Switcher
 - [ ] Responsive
+- [ ] Home and 404 page
 - [x] Progress bar when loading
 
 ## 💻 Features developed during the course
@@ -55,8 +61,6 @@
 
 ## 🛠 Technologies Used
 
-- [Node.js](https://nodejs.org/en/)
-- [Axios](https://github.com/axios/axios)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/docs)
@@ -117,22 +121,14 @@ $ yarn dev
 
 </div>
 
-<!--
-## **:books: REFERÊNCIAS**
+## **:books: References**
 
-- [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [Blog Rocketseat](https://blog.rocketseat.com.br/)
-- [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
-- --->
+- [Deploying with Json-Server](https://dev.to/nikita_guliaev/deploying-create-react-app-with-json-server-as-backend-to-github-3pp9)
 
 ## 📝 License
 
 This repository is licensed by **MIT LICENSE**. For more detailed information, read the file [LICENSE](./LICENSE) contained in this repository.
 
-<h3 align="center">
+<h4 align="center">
 	Make with ❤️ by <a href="https://github.com/tl-lucasestevam">Lucas Estevam</a>
-	<br><br>
-	<a href="https://rocketseat.com.br">
-		<img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-	</a>
-</h3>
+</h4>
