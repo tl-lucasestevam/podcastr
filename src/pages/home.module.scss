@@ -9,6 +9,12 @@
   }
 }
 
+@media (max-width: 830px) {
+  .homepage {
+    margin-bottom: 10rem;
+  }
+}
+
 .latestEpisodes {
   ul {
     list-style: none;
@@ -118,6 +124,36 @@
 .allEpisodes {
   padding-bottom: 2rem;
 
+  @media (max-width: 1200px) {
+    th:nth-child(3) {
+      display: none
+    }
+
+    tr td:nth-child(3) {
+      display: none
+    }
+  }
+
+  @media (max-width: 1000px) {
+    th:nth-child(4) {
+      display: none
+    }
+
+    tr td:nth-child(4) {
+      display: none
+    }
+  }
+
+  @media (max-width: 900px) {
+    th:nth-child(5) {
+      display: none
+    }
+
+    tr td:nth-child(5) {
+      display: none
+    }
+  }
+
   table {
     width: 100%;
 
@@ -136,8 +172,6 @@
 
     td {
       font-size: 0.875rem;
-
-      
 
       img {
         width: 2.5rem;

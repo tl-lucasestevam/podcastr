@@ -9,6 +9,36 @@
   align-items: center;
   justify-content: space-between;
 
+  @media (max-width: 830px) {
+    & {
+      position: fixed;
+      width: 100vw;
+      height: 10rem;
+      left: 0;
+      bottom: 0;
+      padding: 2rem 5rem;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .currentEpisode img,
+    header,
+    .emptyPlayer,
+    .currentEpisode strong,
+    .currentEpisode span {
+      display: none !important;
+    }
+
+    .buttons {
+      margin-top: 1rem;
+    }
+
+    .empty {
+      width: 100%;
+    }
+  }
+
   header {
     display: flex;
     align-items: center;
