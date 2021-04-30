@@ -1,6 +1,6 @@
 <h1 align="center" title="Podcastr">
 		<img align="center" height="50px" 
-			src="./.github/assets/favicon.png" 
+			src="./.github/favicon.png" 
 			alt="Podcastr Logo" 
 		/>
 		Podcastr
@@ -27,7 +27,7 @@
 <br>
 
 <img align="center" 
-	src="./.github/assets/animation.gif" 
+	src="./.github/animation.gif" 
 	alt="Podcastr Logo" 
 />
 
