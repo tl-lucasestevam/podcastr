@@ -9,22 +9,12 @@
 <h2 align="center">Podcastr is a platform for listening to podcasts about development 🚀</h2>
 
 <h4 align="center">
- <a href="##additional-features">✨ Features</a> •
- <a href="##-🛠-technologies-used">🛠 Technologies</a> • 
- <a href="##-🔨-how-to-run-the-project">🔨 How to run the project</a> • 
+ <a href="#-features-developed-during-the-course">💻 Features</a> •
+ <a href="#-technologies-used">🛠 Technologies</a> • 
+ <a href="#-how-to-run-the-project">🔨 How to run the project</a> • 
  <a href="#star2-thanks">:star2: Thanks</a> • 
- <a href="#books-references">:books: References</a> • 
- <a href="##-📝-License">📝 License</a>
+ <a href="#books-references">:books: References</a> 
 </h4>
-
-<br>
-
-[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/tl-lucasestevam/podcastr/LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/tl-lucasestevam/podcastr?color=green&style=flat-square)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/tl-lucasestevam/podcastr?utm_source=github.com&utm_medium=referral&utm_content=jvictorfarias/GoBarber&utm_campaign=Badge_Grade)
-![GitHub top language](https://img.shields.io/github/languages/top/tl-lucasestevam/podcastr?style=flat-square)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-![Made by Rocketseat](https://img.shields.io/badge/made%20by-Rocketseat-%237519C1)
 
 <br>
 
@@ -34,22 +24,8 @@
 />
 
 <h2 align="center"> 
-	<a href="podcastr-tl-lucasestevam.vercel.app/">View Demo</a>
+	<a href="https://podcastr-tl-lucasestevam.vercel.app/">View Demo</a>
 </h2>
-
-<h3 align="center"> 
-	🚧  Podcastr 🚀 In construction...  🚧
-</h3>
-
-<br>
-
-## ✨ Additional Features
-
-- [ ] PWA
-- [ ] Theme Switcher
-- [ ] Responsive
-- [ ] Home and 404 page
-- [x] Progress bar when loading
 
 ## 💻 Features developed during the course
 
@@ -124,10 +100,6 @@ $ yarn dev
 ## **:books: References**
 
 - [Deploying with Json-Server](https://dev.to/nikita_guliaev/deploying-create-react-app-with-json-server-as-backend-to-github-3pp9)
-
-## 📝 License
-
-This repository is licensed by **MIT LICENSE**. For more detailed information, read the file [LICENSE](./LICENSE) contained in this repository.
 
 <h4 align="center">
 	Make with ❤️ by <a href="https://github.com/tl-lucasestevam">Lucas Estevam</a>
